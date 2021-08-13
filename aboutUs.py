@@ -49,7 +49,7 @@ def app():
         st.header("Luel")
         
         
-         st.text_area('Luel Hagos', '''
+        st.text_area('Luel Hagos', '''
         ...    Computer Science and Engineering graduate.
         ...    ''')
 
