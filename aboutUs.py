@@ -46,7 +46,12 @@ def app():
         st.header("Bezawit")
 
     with col6:
-        st.header("Leul")
+        st.header("Luel")
+        
+        
+         st.text_area('Luel Hagos', '''
+        ...    Computer Science and Engineering graduate.
+        ...     ''')
 
     col7, col8, col9 = st.columns(3)
 
